@@ -10,6 +10,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,5 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
