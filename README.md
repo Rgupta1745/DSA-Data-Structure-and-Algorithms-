@@ -13,6 +13,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,8 +28,10 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
