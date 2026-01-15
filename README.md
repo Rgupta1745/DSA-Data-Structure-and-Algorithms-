@@ -34,4 +34,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0278-first-bad-version](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
