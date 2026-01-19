@@ -21,6 +21,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
