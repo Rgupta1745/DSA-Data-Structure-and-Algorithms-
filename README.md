@@ -17,11 +17,13 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
