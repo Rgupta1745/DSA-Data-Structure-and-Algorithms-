@@ -11,6 +11,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0027-remove-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -50,6 +51,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
