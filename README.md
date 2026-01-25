@@ -13,6 +13,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
@@ -77,4 +78,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
