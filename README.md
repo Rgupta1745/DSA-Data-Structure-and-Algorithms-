@@ -14,6 +14,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -27,6 +28,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0001-two-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,4 +94,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
