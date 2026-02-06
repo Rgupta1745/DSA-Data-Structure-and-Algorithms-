@@ -35,6 +35,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -109,4 +112,5 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
