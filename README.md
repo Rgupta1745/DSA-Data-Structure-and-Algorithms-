@@ -19,6 +19,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0162-find-peak-element) |
@@ -130,6 +131,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0053-maximum-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
