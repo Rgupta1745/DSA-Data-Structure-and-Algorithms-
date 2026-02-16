@@ -15,6 +15,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0053-maximum-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0011-container-with-most-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
