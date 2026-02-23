@@ -4,7 +4,7 @@ class Solution {
         int k=0;
         int j = nums.length-1;
 
-       while(i<=j){
+       while(i<j){
         if(nums[i] % 2 == 0){
             i++;
         }else if(nums[j] %2 !=0){
