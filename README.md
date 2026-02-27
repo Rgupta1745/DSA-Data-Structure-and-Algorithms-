@@ -44,6 +44,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
@@ -81,6 +82,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
@@ -166,5 +168,6 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
