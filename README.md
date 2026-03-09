@@ -20,6 +20,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -73,6 +74,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -170,4 +172,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
