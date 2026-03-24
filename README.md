@@ -209,6 +209,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -216,6 +217,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -225,6 +227,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -235,6 +238,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
