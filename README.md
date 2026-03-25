@@ -185,6 +185,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -208,6 +209,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
@@ -226,6 +228,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
@@ -237,6 +240,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
