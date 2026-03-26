@@ -185,6 +185,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -207,6 +208,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -226,6 +228,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -238,6 +241,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
