@@ -154,6 +154,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
@@ -253,6 +254,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -261,6 +263,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 ## Heap (Priority Queue)
 |  |
@@ -276,4 +279,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
