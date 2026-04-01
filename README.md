@@ -251,6 +251,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0543-diameter-of-binary-tree) |
@@ -262,6 +263,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
@@ -282,5 +284,10 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
