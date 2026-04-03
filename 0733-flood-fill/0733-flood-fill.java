@@ -8,7 +8,7 @@ class Solution {
             return image;
         }
         clr = image[sr][sc];
-        if (clr == color) {
+        if (clr == color) { //base case usko todhne ke liyeb
             return image;
         }
 
@@ -18,9 +18,10 @@ class Solution {
 
     public static void dfs(int[][] image, int sr, int sc, int color) {
 
-        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length || image[sr][sc] != clr)
+        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length || image[sr][sc] != clr){ // image[sr][sc] was for the 0 condition 
+                                                                                                    // bcoz 0 wale ko check ni krna hai
             return;
-
+        }
         image[sr][sc] = color;
 
         dfs(image, sr, sc - 1, color); // left
