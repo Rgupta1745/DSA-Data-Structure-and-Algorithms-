@@ -30,6 +30,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
@@ -183,6 +184,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Queue
@@ -274,6 +276,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
