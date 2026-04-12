@@ -183,6 +183,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0053-maximum-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -226,6 +227,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -246,6 +248,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -259,6 +262,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0207-course-schedule) |
