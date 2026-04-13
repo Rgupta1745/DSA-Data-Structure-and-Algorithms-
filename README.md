@@ -31,6 +31,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
@@ -135,6 +136,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0977-squares-of-a-sorted-array) |
