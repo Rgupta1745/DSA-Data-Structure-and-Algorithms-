@@ -47,6 +47,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1143-longest-common-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [1051-height-checker](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,10 +295,12 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
