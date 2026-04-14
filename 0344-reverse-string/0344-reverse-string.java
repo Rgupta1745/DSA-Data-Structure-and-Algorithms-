@@ -3,7 +3,7 @@ class Solution {
         int i = 0 ; 
         int j = s.length-1;
 
-        while(i <= j){
+        while(i < j){
             swap(i , j , s);
             i++;
             j--;
