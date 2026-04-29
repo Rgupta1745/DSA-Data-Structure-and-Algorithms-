@@ -33,6 +33,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
@@ -108,6 +109,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
