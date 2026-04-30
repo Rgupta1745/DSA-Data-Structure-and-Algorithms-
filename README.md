@@ -37,6 +37,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0283-move-zeroes](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
