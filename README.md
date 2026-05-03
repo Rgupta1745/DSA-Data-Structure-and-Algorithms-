@@ -22,6 +22,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -176,6 +177,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 ## Prefix Sum
