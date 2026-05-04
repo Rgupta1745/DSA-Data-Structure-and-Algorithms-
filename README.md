@@ -41,6 +41,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
@@ -70,6 +71,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -186,6 +188,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
