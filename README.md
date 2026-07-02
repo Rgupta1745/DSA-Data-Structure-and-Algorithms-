@@ -142,6 +142,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0344-reverse-string) |
