@@ -1,25 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        List<Integer> list = new ArrayList<>();
-        int first= 0;
-        int second = 1;
-        for(int i=first; i<nums.length ; i++){
-            for(int j= second; j<nums.length; j++){
-                if(nums[i]+nums[j]==target){
-                    list.add(i);
-                    list.add(j);
-                }
+        HashMap<Integer , Integer> hashMap = new HashMap<>();
+
+        for(int i=0 ; i< nums.length ;i++){
+            int newNum = target-nums[i];
+
+            if(hashMap.containsKey(newNum)){
+                int n =hashMap.get(newNum);
+                return new int[]{n,i};
             }
-            first++;
-            second++;
+            hashMap.put(nums[i] , i);
         }
-        
-
-        int[] result = new int[list.size()];
-        for(int k =0;k< list.size();k++){
-            result[k] =list.get(k);
-        }
-
-        return result;
+        return new int[]{-1,-1};
     }
 }
