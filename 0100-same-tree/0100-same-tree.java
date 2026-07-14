@@ -23,18 +23,18 @@ class Solution {
             TreeNode temp1 = queue.poll();
             TreeNode temp2 = queue.poll();
 
-            if(temp1 == null && temp2 == null){
-                continue;
-            } 
-            
-            if( temp1 == null || temp2 == null || temp1.val != temp2.val ){
+            if(temp1== null && temp2 == null) continue;
+            if(temp1== null || temp2 == null) return false;
+
+            if(temp1.val == temp2.val){
+                queue.add(temp1.left);
+                queue.add(temp2.left);
+                queue.add(temp1.right);
+                queue.add(temp2.right);
+                
+            }else{
                 return false;
             }
-            
-            queue.add(temp1.left);
-            queue.add(temp2.left);
-            queue.add(temp1.right);
-            queue.add(temp2.right);
         }
         return true;
 
