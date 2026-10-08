@@ -13,6 +13,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0033-search-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0011-container-with-most-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
@@ -229,6 +231,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -250,6 +253,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -370,4 +374,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
