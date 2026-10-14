@@ -38,6 +38,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
@@ -206,6 +207,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
