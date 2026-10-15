@@ -383,4 +383,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
