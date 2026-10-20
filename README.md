@@ -71,6 +71,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [1929-concatenation-of-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
