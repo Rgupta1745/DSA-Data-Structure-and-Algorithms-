@@ -56,6 +56,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
@@ -226,6 +227,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0238-product-of-array-except-self](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
 | ------- |
