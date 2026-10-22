@@ -47,6 +47,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0260-single-number-iii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0485-max-consecutive-ones) |
@@ -226,6 +227,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
@@ -297,6 +299,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
@@ -388,6 +391,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0074-search-a-2d-matrix](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
 ## Graph Theory
