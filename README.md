@@ -68,6 +68,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1929-concatenation-of-array) |
@@ -228,6 +229,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
 | ------- |
