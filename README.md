@@ -63,6 +63,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
@@ -97,6 +98,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -231,6 +233,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
