@@ -53,6 +53,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0485-max-consecutive-ones](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
@@ -121,6 +122,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0240-search-a-2d-matrix-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0278-first-bad-version) |
+| [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
 ## Interactive
@@ -139,6 +141,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0202-happy-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0304-range-sum-query-2d-immutable](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -436,4 +440,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
