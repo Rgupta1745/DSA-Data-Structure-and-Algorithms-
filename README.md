@@ -444,4 +444,12 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
