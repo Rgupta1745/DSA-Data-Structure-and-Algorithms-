@@ -96,6 +96,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0242-valid-anagram](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +178,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0242-valid-anagram](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1143-longest-common-subsequence) |
@@ -196,6 +198,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0169-majority-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
@@ -210,6 +213,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0242-valid-anagram](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0977-squares-of-a-sorted-array) |
@@ -387,6 +391,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
@@ -452,4 +457,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
