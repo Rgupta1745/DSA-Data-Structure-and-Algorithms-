@@ -154,6 +154,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -178,6 +179,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0038-count-and-say](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0344-reverse-string) |
