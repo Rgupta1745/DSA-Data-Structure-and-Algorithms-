@@ -167,6 +167,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -191,6 +192,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0796-rotate-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
