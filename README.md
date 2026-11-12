@@ -9,6 +9,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0001-two-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -151,6 +152,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0042-trapping-rain-water) |
@@ -217,6 +219,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0088-merge-sorted-array) |
