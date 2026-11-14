@@ -65,6 +65,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -168,6 +169,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0344-reverse-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +182,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
@@ -232,6 +235,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0922-sort-array-by-parity-ii) |
@@ -492,4 +496,8 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0912-sort-an-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
