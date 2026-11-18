@@ -89,6 +89,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
@@ -190,6 +191,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0125-valid-palindrome) |
@@ -285,6 +287,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
