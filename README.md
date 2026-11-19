@@ -109,6 +109,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -171,6 +172,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0202-happy-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
@@ -201,6 +203,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0387-first-unique-character-in-a-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -291,6 +294,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
