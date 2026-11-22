@@ -76,6 +76,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [1051-height-checker](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1480-running-sum-of-1d-array) |
@@ -114,6 +115,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
@@ -153,6 +155,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
@@ -296,6 +300,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
