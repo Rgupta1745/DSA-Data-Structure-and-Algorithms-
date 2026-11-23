@@ -67,6 +67,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -113,6 +114,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -300,6 +302,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
