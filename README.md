@@ -63,6 +63,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0695-max-area-of-island](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0706-design-hashmap) |
+| [0713-subarray-product-less-than-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -140,6 +141,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0268-missing-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0278-first-bad-version) |
 | [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
+| [0713-subarray-product-less-than-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1095-find-in-mountain-array) |
 ## Interactive
@@ -284,6 +286,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0525-contiguous-array](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -305,6 +308,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/1248-count-number-of-nice-subarrays) |
