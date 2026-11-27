@@ -98,6 +98,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0036-valid-sudoku](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -208,6 +209,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0242-valid-anagram) |
@@ -307,6 +309,7 @@ A comprehensive collection of Data Structures and Algorithms solutions implement
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rgupta1745/DSA-Data-Structure-and-Algorithms-/tree/master/0424-longest-repeating-character-replacement) |
